@@ -1,0 +1,23 @@
+[
+  {"name": "Abyssinian", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gustav_chocolate.jpg/100px-Gustav_chocolate.jpg"},
+  {"name": "American Bobtail", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/American_bobtail_2.jpg/100px-American_bobtail_2.jpg"},
+  {"name": "Asian", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/BrownVarientAsianCat.JPG/100px-BrownVarientAsianCat.JPG"},
+  {"name": "British Semi-longhair", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/British_Longhair_-_Black_Silver_Shaded.jpg/100px-British_Longhair_-_Black_Silver_Shaded.jpg"},
+  {"name": "British Shorthair", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Britishblue.jpg/100px-Britishblue.jpg"},
+  {"name": "Chartreux", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Abbaye_fev2006_003.jpg/100px-Abbaye_fev2006_003.jpg"},
+  {"name": "Cornish Rex", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BebopsLilacPrince.JPG/100px-BebopsLilacPrince.JPG"},
+  {"name": "Dragon Li", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dragon_Li_-_Li_Hua_Mau1.jpg/100px-Dragon_Li_-_Li_Hua_Mau1.jpg"},
+  {"name": "German Rex", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/German_Rex_Emi.jpg/100px-German_Rex_Emi.jpg"},
+  {"name": "Khao Manee", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Khao_Manee_%22ChaWee%22.jpg/100px-Khao_Manee_%22ChaWee%22.jpg"},
+  {"name": "Korat", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Veda%2Cchat-adulte-m%C3%A2le-race-korat.JPG/100px-Veda%2Cchat-adulte-m%C3%A2le-race-korat.JPG"},
+  {"name": "Maine Coon", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Maine_Coon_female.jpg/100px-Maine_Coon_female.jpg"},
+  {"name": "Mekong Bobtail", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mekong_bobtail_female%2C_Cofein_Pride_cattery.jpg/100px-Mekong_bobtail_female%2C_Cofein_Pride_cattery.jpg"},
+  {"name": "Minskin", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Minskin_Kitten_Female_blue_tabby_color-pattern.jpg/100px-Minskin_Kitten_Female_blue_tabby_color-pattern.jpg"},
+  {"name": "Oriental Bicolor", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Oriental_shorthair_20070130_caroline.jpg/100px-Oriental_shorthair_20070130_caroline.jpg"},
+  {"name": "Persian (Modern Persian Cat)", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Persialainen.jpg/100px-Persialainen.jpg"},
+  {"name": "Ragamuffin", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20050922AmarilloRes.jpg/100px-20050922AmarilloRes.jpg"},
+  {"name": "Russian Blue", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Russian_Blue_001.gif/100px-Russian_Blue_001.gif"},
+  {"name": "Savannah", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Savannah_Cat_portrait.jpg/100px-Savannah_Cat_portrait.jpg"},
+  {"name": "Singapura", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Raffles_singapura_cat.jpg/100px-Raffles_singapura_cat.jpg"},
+  {"name": "Sphynx", "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sphinx2_July_2006.jpg/100px-Sphinx2_July_2006.jpg"}
+]

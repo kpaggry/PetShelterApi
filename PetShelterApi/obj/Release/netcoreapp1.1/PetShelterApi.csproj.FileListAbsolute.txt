@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\PetShelterApi\PetShelterApi\bin\Release\netcoreapp1.1\PetShelterApi.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\PetShelterApi\PetShelterApi\bin\Release\netcoreapp1.1\PetShelterApi.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\PetShelterApi\PetShelterApi\bin\Release\netcoreapp1.1\PetShelterApi.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\PetShelterApi\PetShelterApi\bin\Release\netcoreapp1.1\PetShelterApi.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\PetShelterApi\PetShelterApi\bin\Release\netcoreapp1.1\PetShelterApi.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\PetShelterApi\PetShelterApi\obj\Release\netcoreapp1.1\PetShelterApi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\PetShelterApi\PetShelterApi\obj\Release\netcoreapp1.1\PetShelterApi.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\PetShelterApi\PetShelterApi\obj\Release\netcoreapp1.1\PetShelterApi.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\PetShelterApi\PetShelterApi\obj\Release\netcoreapp1.1\PetShelterApi.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PetShelterApi20170430022003" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Administrator\\Documents\\Visual\ Studio\ 2017\\Projects\\PetShelterApi\\PetShelterApi\\obj\\Release\\netcoreapp1\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
