@@ -6,7 +6,6 @@ namespace PetShelterApi.Models
 {
     public interface IPetRepository
     {
-        Task<List<Pet>> GetPets();
         Task<Pet> GetPet(int petId);
         Task<bool> CreatePet(PetVm pet);
         Task<List<PetType>> GetPetTypes();

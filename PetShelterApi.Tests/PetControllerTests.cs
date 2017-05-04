@@ -14,20 +14,6 @@ namespace PetShelterApi.Tests
     public class PetControllerTests
     {
         [Fact]
-        public async Task GetPetsReturnsAllPets()
-        {
-            var repoMock = new Mock<IPetRepository>();
-            var logger = new Mock<ILogger>();
-            logger.Setup(x => x.Path).Returns("sample");
-            repoMock.Setup(x => x.GetPets()).Returns(new FakeModelRepo().GetPets());
-            var controller = new PetController(repoMock.Object, logger.Object);
-
-            var result = await controller.GetPets() as OkObjectResult;
-
-            if (result != null) Assert.IsType<List<Pet>>(result.Value);
-        }
-
-        [Fact]
         public async Task GetPetReturnsAPet()
         {
             var repoMock = new Mock<IPetRepository>();

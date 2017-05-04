@@ -10414,10 +10414,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Visual Studio 2017\\Projects\\PetShelterApi\\PetShelterApi\\PetShelterApi.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\documents\\visual studio 2017\\Projects\\PetShelterApi\\PetShelterApi\\PetShelterApi.csproj",
       "projectName": "PetShelterApi",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\Visual Studio 2017\\Projects\\PetShelterApi\\PetShelterApi\\PetShelterApi.csproj",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\Visual Studio 2017\\Projects\\PetShelterApi\\PetShelterApi\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\documents\\visual studio 2017\\Projects\\PetShelterApi\\PetShelterApi\\PetShelterApi.csproj",
+      "outputPath": "C:\\Users\\Administrator\\documents\\visual studio 2017\\Projects\\PetShelterApi\\PetShelterApi\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

@@ -21,21 +21,6 @@ namespace PetShelterApi.Controllers
         }
 
         [HttpGet]
-        [Route("[action]")]
-        public async Task<IActionResult> GetPets()
-        {
-            try
-            {
-                return Ok(await _repo.GetPets());
-            }
-            catch (Exception ex)
-            {
-                _log.LogException(ex);
-                return BadRequest(new { status = "failed", message = "An error has occured. Kindly check back again" });
-            }
-        }
-
-        [HttpGet]
         [Route("[action]/{pageNumber:int}")]
         public async Task<IActionResult> GetPetsPerPage(int pageNumber)
         {
@@ -92,7 +77,7 @@ namespace PetShelterApi.Controllers
             try
             {
                 var unique = await _repo.ConfirmUniqueName(pet.Name, pet.Breed.Id);
-                if (!unique) return Ok(new { status = "exists", message = $"{pet.Name} already exists on the {pet.Breed.Name} type. Choose another name" });
+                if (!unique) return Ok(new { status = "exists", message = $"{pet.Name} already exists on the {pet.Breed.Name} breed. Choose another name" });
                 if (await _repo.CreatePet(pet)) return Created("", new { status = "success", message = "Pet Created Successfully!" });
                 return Ok(new { status = "failed", message = "Could not create Pet" });
             }

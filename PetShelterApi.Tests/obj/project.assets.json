@@ -11547,10 +11547,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Visual Studio 2017\\Projects\\PetShelterApi\\PetShelterApi.Tests\\PetShelterApi.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\documents\\visual studio 2017\\Projects\\PetShelterApi\\PetShelterApi.Tests\\PetShelterApi.Tests.csproj",
       "projectName": "PetShelterApi.Tests",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\Visual Studio 2017\\Projects\\PetShelterApi\\PetShelterApi.Tests\\PetShelterApi.Tests.csproj",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\Visual Studio 2017\\Projects\\PetShelterApi\\PetShelterApi.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\documents\\visual studio 2017\\Projects\\PetShelterApi\\PetShelterApi.Tests\\PetShelterApi.Tests.csproj",
+      "outputPath": "C:\\Users\\Administrator\\documents\\visual studio 2017\\Projects\\PetShelterApi\\PetShelterApi.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -11558,8 +11558,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\Administrator\\Documents\\Visual Studio 2017\\Projects\\PetShelterApi\\PetShelterApi\\PetShelterApi.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Documents\\Visual Studio 2017\\Projects\\PetShelterApi\\PetShelterApi\\PetShelterApi.csproj"
+            "C:\\Users\\Administrator\\documents\\visual studio 2017\\Projects\\PetShelterApi\\PetShelterApi\\PetShelterApi.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\documents\\visual studio 2017\\Projects\\PetShelterApi\\PetShelterApi\\PetShelterApi.csproj"
             }
           }
         }

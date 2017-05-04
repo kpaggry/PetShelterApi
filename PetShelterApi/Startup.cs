@@ -62,8 +62,6 @@ namespace PetShelterApi
                     defaults: new { controller = "Pet", action = "GetPets" }
                 );
             });
-
-            PetSeedData.Populate(app, env);
         }
     }
 }

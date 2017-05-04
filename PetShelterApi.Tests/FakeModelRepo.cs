@@ -17,8 +17,7 @@ namespace PetShelterApi.Tests
                 Latitude = 50.123M,
                 Longitude = -112.3553M,
                 Breed = new Breed { ImgUrl = "//src/img", Name = "terrier", Id = 2 },
-                Type = new PetType { Id = 1, Name = "Dog" },
-                Location = "Regina, SK"
+                Type = new PetType { Id = 1, Name = "Dog" }
             },
             new Pet
             {
@@ -27,8 +26,7 @@ namespace PetShelterApi.Tests
                 Latitude = 50.123M,
                 Longitude = -112.3553M,
                 Breed = new Breed { ImgUrl = "//src/img", Name = "terrier", Id = 2 },
-                Type = new PetType { Id = 1, Name = "Dog" },
-                Location = "Regina, SK"
+                Type = new PetType { Id = 1, Name = "Dog" }
             }
         };
 
@@ -67,7 +65,6 @@ namespace PetShelterApi.Tests
             {
                 Name = pet.Name,
                 Latitude = pet.Latitude,
-                Location = pet.Location,
                 Longitude = pet.Longitude,
                 BreedId = pet.Breed.Id,
                 PetTypeId = pet.Type.Id
