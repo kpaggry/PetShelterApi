@@ -22,6 +22,6 @@
 
 ## Running unit tests
 
-1. On the menu bar in VS, click `Test->Windows->Test` Explorer to open the window.
+1. On the menu bar in VS, click `Test->Windows->Test Explorer` to open the window.
 2. Build the App, you should now see the tests in the test Explorer window.
 3. Click `run all` in the Test Explorer Window
